@@ -1547,6 +1547,12 @@
         padding: 40px;
     }
     
+@media (max-width: 600px){
+    .feature {
+        padding: 40px 0;
+    }
+}
+
     .feature p {
         color: rgb(63, 63, 63);
     }
