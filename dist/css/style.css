@@ -1603,6 +1603,12 @@
         max-width: 80%;
         margin: 0 auto;
     }
+
+@media (max-width: 600px){
+.features-inner {
+        max-width: 100%;        
+    }
+}
     
     .feature-header {
         display: flex;
