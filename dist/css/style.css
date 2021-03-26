@@ -1311,16 +1311,14 @@
     }
 
 @media (max-width: 600px){
-    .button-primary {
-        
+        .button-primary {        
         margin: 0;
-    }
+        }
     
-    .button-primary-strong {
-        
+        .button-primary-strong {        
         margin: 0;
+        }
     }
-}
     
     .button-block {
         display: flex
