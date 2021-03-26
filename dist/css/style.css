@@ -1564,6 +1564,12 @@
         border-radius: 4px;
         max-width: 550px;
     }
+
+@media (max-width: 600px){
+.date-event {
+        margin: 10px 0;
+    }
+}
     
     .date-b,
     .time-b {
