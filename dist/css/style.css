@@ -1403,7 +1403,7 @@
     
     .features {
         padding-top: 48px;
-        padding-bottom: 48px;
+        padding-bottom: 0;
         background-image: url(https://raw.githubusercontent.com/Gio-Moreno/taller-de-marketing-digital/main/img/formas-fondo-3.png);
         background-size: cover;
         background-repeat: no-repeat;
