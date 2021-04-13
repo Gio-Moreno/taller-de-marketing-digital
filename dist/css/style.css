@@ -1686,7 +1686,7 @@
     @media (min-width: 641px) {
         .section-inner {
             padding-top: 88px;
-            padding-bottom: 88px
+            padding-bottom: 0;
         }
     }
     
